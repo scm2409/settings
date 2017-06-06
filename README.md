@@ -1,0 +1,2 @@
+# settings
+Diverse application settings
